@@ -30,4 +30,4 @@ I am a Front-end Developer looking for a job in a friendly place. I love to lear
 
 You can check my resume [my resume]
 
-[my resume]: [<img alt ='resume' src='myImage/my-resume.pdf'/>]
+[my resume]: <img alt ='resume' src='myImage/my-resume.pdf'/>
