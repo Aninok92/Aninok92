@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:wave: Hi, I am a Front-end Developer looking for a job in a friendly place. I love to learn new things and improve my skills.
+I am a Front-end Developer looking for a job in a friendly place. I love to learn new things and improve my skills.
 
 :star: **My Tech Skills**
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 You can check my resume [my resume]
 
-[my resume]: <img alt ='resume' src='./myImage/my-resume.pdf'/>
+[my resume]: [<img alt ='resume' src='myImage/my-resume.pdf'/>]
