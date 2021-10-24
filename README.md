@@ -28,6 +28,6 @@ I am a Front-end Developer looking for a job in a friendly place. I love to lear
 [linkedin]: https://www.linkedin.com/in/nina-vasilieva/
 [facebook]: https://www.facebook.com/profile.php?id=100002098390997
 
-You can check [my resume]:(myImage/my-resume.pdf/)
+You can check my resume [my resume]:(myImage/my-resume.pdf)
 
 <!-- You can check my resume: [<img alt ='resume' src='myImage/my-resume.pdf'/>] -->
