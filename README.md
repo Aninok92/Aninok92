@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Front-end Developer looking for a job in a friendly place. I love to learn new things and improve my skills.
+I am a Front-end Developer looking for a job in a friendly place. I learn fast and I have curious mind. I like challenging task and projects 
 
 <hr/>
 
